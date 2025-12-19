@@ -36,7 +36,7 @@ These topologies are interconnected to form a **Hybrid Topology** suitable for a
 
 ---
 
-## 🖥️ Implementation Details
+## Implementation Details
 - The network consists of **26 nodes**
 - An **adjacency matrix** is used to represent connections
 - Nodes are positioned using predefined coordinates
@@ -74,6 +74,3 @@ These topologies are interconnected to form a **Hybrid Topology** suitable for a
 The experiment successfully demonstrates the creation and analysis of a **hybrid network topology** using Scilab. By combining star, tree, and ring topologies, the network achieves better scalability, reliability, and efficient communication, making it suitable for real-world applications such as campus networks.
 
 ---
-
-## 👩‍💻 Author
-*Srivarshini S*  
